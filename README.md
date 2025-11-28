@@ -99,8 +99,7 @@ Saída final em CSV padronizado
 
 
 ## Vídeo da apresentação
-()
-
+https://youtu.be/qqk7w7KOwPM
 
 ## Autor
 Gabriel Calado da Silva Castro
